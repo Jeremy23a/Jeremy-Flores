@@ -10,4 +10,4 @@ In addition to my technical experience, I am an effective communicator and enjoy
 I am open to new exciting opportunities, so if you're looking for a passionate and dedicated Full-Stack Developer for your team, let's chat!".
 
 📪 Mail: jeremy.andre.99@gmail.com
-🔗 GitHub: https://github.com/Jeremy23a
+🔗 Linkedin: https://www.linkedin.com/in/jeremy-andre-flores/
